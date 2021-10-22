@@ -1,6 +1,5 @@
-<template>
-  <div class="container">
-    <div>
+
+
       <Logo />
       <h1 class="title">
         Welcome to Nuxt.js
